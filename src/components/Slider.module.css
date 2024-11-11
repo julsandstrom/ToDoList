@@ -1,0 +1,21 @@
+.wrapper {
+  position: relative;
+  height: 200px; /* Height of the container */
+}
+
+.label {
+  /* Label styling */
+}
+
+.slider {
+  /* Slider styling */
+}
+
+.ball {
+  width: 20px;
+  height: 20px;
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+}
